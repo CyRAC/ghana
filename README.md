@@ -5,6 +5,9 @@ Most of the resources are tagged using the below format for classification:
 
 * :free: - free
 * :moneybag: - paid
-*  :pencil: - opensource
+* :pencil: - opensource
+* :desktop_computer: - windows
+* :computer: - macOS
+* :penguin: - linux (:heart:)
 
 For contribution please follow the markdown format of the files in their respective folders.

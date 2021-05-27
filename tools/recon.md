@@ -1,6 +1,6 @@
 ## Reconnaissance tools
 
-* nmap - :free:
+* nmap - :free: :penguin: :desktop_computer: :computer:  
   * Network mapping tool
 
     https://nmap.org/
